@@ -1,3 +1,8 @@
 body {
-  background: orange;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size: small;
+}
+h1{font-size:170%;
+}
+h2 {font-size:130%;
 }
