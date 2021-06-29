@@ -1,8 +1,18 @@
 body {
   font-family: Verdana, Geneva, Arial, sans-serif;
   font-size: small;
+  background-color: #cc6600;
 }
-h1{font-size:170%;
+h1,
+h2 {
+  font-weight: normal;
 }
-h2 {font-size:130%;
+h1 {
+  font-size: 170%;
+}
+h2 {
+  font-size: 130%;
+}
+blockquote {
+  font-style: italic;
 }
