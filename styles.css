@@ -1,11 +1,13 @@
 body {
   font-family: Verdana, Geneva, Arial, sans-serif;
   font-size: small;
-  background-color: #cc6600;
 }
 h1,
 h2 {
   font-weight: normal;
+  border-bottom: thin dotted #888888;
+  color:#cc6600;
+  text-align:center;
 }
 h1 {
   font-size: 170%;
