@@ -49,5 +49,7 @@ table table th {
   background-color: white;
 }
 li {
-  list-style-type: 
+  list-style-image: url(https://stackblitz.com/files/head-first-journal/github/CWW15/blah-blah/master/backpack.gif);
+  padding-top: 5px;
+  margin-left: 20px;
 }
