@@ -6,8 +6,8 @@ h1,
 h2 {
   font-weight: normal;
   border-bottom: thin dotted #888888;
-  color:#cc6600;
-  text-align:center;
+  color: #cc6600;
+  text-align: center;
 }
 h1 {
   font-size: 170%;
@@ -18,27 +18,36 @@ h2 {
 blockquote {
   font-style: italic;
 }
-table{
-  margin-left:20px;
-  margin-right:20px;
+table {
+  margin-left: 20px;
+  margin-right: 20px;
   border: thin solid black;
-  caption-side:bottom;
-  border-collapse:collapse;
+  caption-side: bottom;
+  border-collapse: collapse;
 }
-td, th{
-  border:thin dotted gray;
-  padding:5px;
+td,
+th {
+  border: thin dotted gray;
+  padding: 5px;
 }
-th{
+th {
   background-color: #cc6600;
 }
-.cellcolor{
-  background-color:#fcba7a;
+.cellcolor {
+  background-color: #fcba7a;
 }
-caption{
-  font-style:italic;
+caption {
+  font-style: italic;
 }
-#center-align{text-align:center;
+#center-align {
+  text-align: center;
 }
-#right-aligned{text-align:right;
+#right-aligned {
+  text-align: right;
+}
+table table th {
+  background-color: white;
+}
+li {
+  list-style-type: 
 }
